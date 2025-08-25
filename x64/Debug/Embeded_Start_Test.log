@@ -1,0 +1,3 @@
+﻿  Embeded.c
+C:\Users\Asus\source\repos\Embeded_Start_Test\Embeded.c(30,2): warning C4098: 'main': 'void' function returning a value
+  Embeded_Start_Test.vcxproj -> C:\Users\Asus\source\repos\Embeded_Start_Test\x64\Debug\Embeded_Start_Test.exe
